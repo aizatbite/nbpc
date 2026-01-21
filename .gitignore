@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+
+# Excel files
+*.xlsx
+*.xlsb
+
+# Excel temporary files
+.~lock.*
